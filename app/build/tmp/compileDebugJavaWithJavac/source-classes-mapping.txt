@@ -1,0 +1,4 @@
+com/sstTechnologies/smartOt/BuildConfig.java
+ com.sstTechnologies.smartOt.BuildConfig
+com/sstTechnologies/smartOt/MainActivity.java
+ com.sstTechnologies.smartOt.MainActivity
