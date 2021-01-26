@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867847752509",
+    "firebase_url": "https://smartot-d14e3-default-rtdb.firebaseio.com",
+    "project_id": "smartot-d14e3",
+    "storage_bucket": "smartot-d14e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867847752509:android:7eee4682bb4b0a49149354",
+        "android_client_info": {
+          "package_name": "com.sstTechnologies.smartOt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867847752509-m87n37mjsn63977s1c6go0mi5qm0a3i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sstTechnologies.smartOt",
+            "certificate_hash": "8b933b2eda42ea92dc212872637637c3837929ab"
+          }
+        },
+        {
+          "client_id": "867847752509-pe6q5c5r9trafostuln7elepv8raosv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA36t_pBvb465FaogpEaLsUlXxdzxbnIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867847752509-pe6q5c5r9trafostuln7elepv8raosv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
