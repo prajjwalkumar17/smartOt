@@ -1,4 +1,4 @@
-package com.sstTechnologies.smartOt.fragment;
+package com.sstTechnologies.smartOt.fragment.login;
 
 import android.os.Bundle;
 

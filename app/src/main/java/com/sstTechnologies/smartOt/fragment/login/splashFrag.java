@@ -1,4 +1,4 @@
-package com.sstTechnologies.smartOt.fragment;
+package com.sstTechnologies.smartOt.fragment.login;
 
 import android.os.Bundle;
 
@@ -10,14 +10,14 @@ import android.view.ViewGroup;
 
 import com.sstTechnologies.smartOt.R;
 
-public class signUpFrag extends Fragment {
+public class splashFrag extends Fragment {
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View root = inflater.inflate(R.layout.fragment_sign_up, container, false);
+        View root = inflater.inflate(R.layout.fragment_splash, container, false);
 
 
         return root;

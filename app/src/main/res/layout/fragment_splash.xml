@@ -3,11 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment.login.signUpFrag">
+    tools:context=".fragment.login.splashFrag">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="#000" />
+        android:src="#E8B724" />
 
 </FrameLayout>
