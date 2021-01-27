@@ -4,6 +4,7 @@ buildscript {
         google()
         jcenter()
     }
+
     dependencies {
         classpath "com.android.tools.build:gradle:4.1.0"
         classpath 'com.google.gms:google-services:4.3.4'
@@ -14,12 +15,15 @@ buildscript {
     }
 }
 
+
 allprojects {
     repositories {
         google()
         jcenter()
     }
 }
+
+
 
 task clean(type: Delete) {
     delete rootProject.buildDir
