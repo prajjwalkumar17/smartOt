@@ -1,4 +1,10 @@
+com/sstTechnologies/smartOt/fragment/login/signUpFrag.java
+ com.sstTechnologies.smartOt.fragment.login.signUpFrag
 com/sstTechnologies/smartOt/BuildConfig.java
  com.sstTechnologies.smartOt.BuildConfig
+com/sstTechnologies/smartOt/fragment/login/splashFrag.java
+ com.sstTechnologies.smartOt.fragment.login.splashFrag
+com/sstTechnologies/smartOt/fragment/login/signInFrag.java
+ com.sstTechnologies.smartOt.fragment.login.signInFrag
 com/sstTechnologies/smartOt/MainActivity.java
  com.sstTechnologies.smartOt.MainActivity

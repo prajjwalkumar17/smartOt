@@ -1,7 +1,7 @@
-#Sat Jan 23 13:07:00 IST 2021
-base.0=/Users/hangsai/AndroidStudioProjects/smartOt/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+#Thu Jan 28 13:27:45 IST 2021
+base.0=C\:\\apps\\smartOt\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/hangsai/AndroidStudioProjects/smartOt/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+base.1=C\:\\apps\\smartOt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
