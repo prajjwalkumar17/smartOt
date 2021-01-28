@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e2f07257e372f93b11a915a358e9b44f\navigation-ui-2.3.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\home\.gradle\caches\transforms-2\files-2.1\fce964e4db6e9be043333bce0f84b692\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\home\.gradle\caches\transforms-2\files-2.1\d94e13cc449c36c2f070b7270446377a\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -48,25 +48,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\home\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f0673c0598aacf1c0d6a5b61393b96c0\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\37c36e93874b662f049498e93e57ec5e\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\99b20ce235e878ca4eecc198dce90047\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
-		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
-		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\home\.gradle\caches\transforms-2\files-2.1\fce964e4db6e9be043333bce0f84b692\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\home\.gradle\caches\transforms-2\files-2.1\fce964e4db6e9be043333bce0f84b692\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\home\.gradle\caches\transforms-2\files-2.1\d94e13cc449c36c2f070b7270446377a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -105,6 +105,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from C:\apps\smartOt\app\src\main\AndroidManifest.xml:20:13-43
 uses-sdk
 INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\apps\smartOt\app\src\main\AndroidManifest.xml

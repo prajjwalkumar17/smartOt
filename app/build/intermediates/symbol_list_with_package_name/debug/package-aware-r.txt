@@ -60,6 +60,10 @@ animator nav_default_enter_anim
 animator nav_default_exit_anim
 animator nav_default_pop_enter_anim
 animator nav_default_pop_exit_anim
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 attr action
 attr actionBarDivider
 attr actionBarItemBackground
@@ -1639,6 +1643,7 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font archivo_black
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1714,6 +1719,8 @@ id alertTitle
 id aligned
 id all
 id always
+id anim1
+id anim2
 id animateToEnd
 id animateToStart
 id asConfigured
@@ -1990,6 +1997,7 @@ id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
+id text1
 id text2
 id textEnd
 id textSpacerNoButtons

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\font_archivo_black.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\font\\archivo_black.xml"
+    },
+    {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },

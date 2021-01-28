@@ -11,7 +11,7 @@
 9-->C:\apps\smartOt\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:5:5-22:19
 12        android:allowBackup="true"
 12-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -43,6 +43,13 @@
 26-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:16:27-74
 27            </intent-filter>
 28        </activity>
-29    </application>
-30
-31</manifest>
+29
+30        <meta-data
+30-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:19:9-21:57
+31            android:name="preloaded_fonts"
+31-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:20:13-43
+32            android:resource="@array/preloaded_fonts" />
+32-->C:\apps\smartOt\app\src\main\AndroidManifest.xml:21:13-54
+33    </application>
+34
+35</manifest>
