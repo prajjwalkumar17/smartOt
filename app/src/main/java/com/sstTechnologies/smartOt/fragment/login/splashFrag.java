@@ -4,6 +4,7 @@ import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
+import androidx.navigation.Navigation;
 
 import android.os.Handler;
 import android.os.Message;
@@ -21,7 +22,12 @@ public class splashFrag extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View root = inflater.inflate(R.layout.fragment_splash, container, false);
-
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                Navigation.findNavController(root).navigate(R.id.action_splashFrag_to_signUp);
+            }
+        }, 3000);
 
         return root;
     }
