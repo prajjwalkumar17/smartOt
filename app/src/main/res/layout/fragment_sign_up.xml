@@ -110,6 +110,30 @@
                 android:inputType="textPassword"
                 android:minEms="6" />
         </com.google.android.material.textfield.TextInputLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/passwordtt"
+    app:layout_constraintVertical_bias="0.3"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:orientation="vertical">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bot1"
+        android:text="Sign Up"
+        android:textColor="#000" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already a User"
+        android:textColor="#421E1E"
+        android:background="@drawable/background_transparent"
+        android:layout_marginTop="20dp" />
+</LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>

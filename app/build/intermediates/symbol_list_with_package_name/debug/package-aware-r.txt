@@ -1591,6 +1591,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background_transparent
+drawable bot1
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1605,6 +1607,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable email
+drawable ic_baseline_person_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
@@ -1885,6 +1889,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
 id naav
+id name
 id nav_controller_view_tag
 id nav_host_fragment_container
 id navigation_header_container
@@ -1905,6 +1910,7 @@ id parentPanel
 id parentRelative
 id parent_matrix
 id password_toggle
+id passwordtt
 id path
 id pathRelative
 id peekHeight
@@ -2000,6 +2006,7 @@ id text
 id text1
 id text2
 id textEnd
+id textInputLayout
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -2186,6 +2193,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation naav
 plurals mtrl_badge_content_description
+raw button
 raw ecoliving
 raw lightbulb
 string abc_action_bar_home_description

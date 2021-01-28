@@ -1,11 +1,43 @@
 [
     {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\font_archivo_black.xml.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\font\\archivo_black.xml"
-    },
-    {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_splash.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\font_archivo_black.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\font\\archivo_black.xml"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\raw_lightbulb.json.flat",
@@ -20,20 +52,16 @@
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_splash.xml.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\layout\\fragment_splash.xml"
-    },
-    {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -44,40 +72,32 @@
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_in.xml.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
-    },
-    {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\navigation_naav.xml.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\navigation\\naav.xml"
     },
     {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bot1.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\drawable\\bot1.xml"
+    },
+    {
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\raw_button.json.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\raw\\button.json"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_up.xml.flat",
         "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
     },
     {
-        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_transparent.xml.flat",
+        "source": "C:\\apps\\smartOt\\app\\src\\main\\res\\drawable\\background_transparent.xml"
     },
     {
         "merged": "C:\\apps\\smartOt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
