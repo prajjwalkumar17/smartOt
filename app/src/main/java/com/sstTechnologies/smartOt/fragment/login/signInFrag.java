@@ -22,6 +22,8 @@ public class signInFrag extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_sign_in, container, false);
         Toast.makeText(getContext(), "helooo", Toast.LENGTH_SHORT).show();
+
+
         return root;
     }
 }
