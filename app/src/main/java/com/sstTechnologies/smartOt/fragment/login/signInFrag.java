@@ -25,7 +25,8 @@ public class signInFrag extends Fragment {
 
         Toast.makeText(getContext(), "helooo", Toast.LENGTH_SHORT).show();
 
-        Toast.makeText(getContext(), "heloom,sxo", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getContext(), "heloom,sxkko", Toast.LENGTH_SHORT).show();
+
         Toast.makeText(getContext(), "helooo", Toast.LENGTH_SHORT).show();
 
 
