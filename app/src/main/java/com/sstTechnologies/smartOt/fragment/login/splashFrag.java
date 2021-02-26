@@ -19,6 +19,8 @@ public class splashFrag extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View root = inflater.inflate(R.layout.fragment_splash, container, false);
+
+        Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
         Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
 
         return root;
