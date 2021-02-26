@@ -18,7 +18,8 @@ public class signUpFrag extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
 
-        View root = inflater.inflate(R.layout.fragment_sign_up, container, false);
+        View root = inflater
+                .inflate(R.layout.fragment_sign_up, container, false);
 
 
         return root;
