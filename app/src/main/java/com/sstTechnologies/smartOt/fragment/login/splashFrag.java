@@ -27,6 +27,8 @@ public class splashFrag extends Fragment {
         Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
         Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
         Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getContext(), "jafhfkj", Toast.LENGTH_SHORT).show();
 
         return root;
     }
